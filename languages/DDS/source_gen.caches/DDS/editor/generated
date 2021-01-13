@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="a0enfvdt2dolagr144o6w07iz9kio98">
+  <files names="DDS_Deadline_Editor.java:DDS_Deadline_EditorBuilder_a.java:DDS_Depth_Editor.java:DDS_Depth_EditorBuilder_a.java:DDS_Durability_Editor.java:DDS_Durability_EditorBuilder_a.java:DDS_History_Editor.java:DDS_History_EditorBuilder_a.java:DDS_LeaseDuration_Editor.java:DDS_LeaseDuration_EditorBuilder_a.java:DDS_Lifespan_Editor.java:DDS_Lifespan_EditorBuilder_a.java:DDS_Liveliness_Editor.java:DDS_Liveliness_EditorBuilder_a.java:DDS_Reliability_Editor.java:DDS_Reliability_EditorBuilder_a.java:EditorAspectDescriptorImpl.java" />
+</product>
+

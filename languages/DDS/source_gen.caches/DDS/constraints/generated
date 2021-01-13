@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="3o2ah2hw8zmumshxu5n5xd5nx9861uu">
+  <files names="ConstraintsAspectDescriptor.java:DDS_Deadline_Constraints.java:DDS_Depth_Constraints.java:DDS_LeaseDuration_Constraints.java:DDS_Lifespan_Constraints.java" />
+</product>
+
